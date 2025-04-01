@@ -1,0 +1,3 @@
+This RAG system is built using dummy documented data and employs cosine similarity to identify words with similar frequency and meaning. Additionally, I have integrated Llama2 and DeepSeek locally to generate AI-driven responses for the given prompts.
+
+
